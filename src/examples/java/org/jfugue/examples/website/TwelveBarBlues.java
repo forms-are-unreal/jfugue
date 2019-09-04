@@ -16,6 +16,6 @@ public class TwelveBarBlues {
                 .setInstrument("Acoustic_Bass")
                 .setTempo(100);
         new Player().play(pattern);
-    }
+}
 }
 
